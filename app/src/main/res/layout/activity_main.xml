@@ -29,7 +29,7 @@
         android:layout_marginTop="20dp"
         android:background="@drawable/button_custom"
         android:text="Add"
-        app:backgroundTint="@null"
+        app:backgroundTint="#9C27B0"
         app:layout_constraintStart_toStartOf="@+id/tvSearch"
         app:layout_constraintTop_toBottomOf="@+id/tvSearch" />
 
@@ -41,7 +41,7 @@
         android:layout_marginLeft="8dp"
         android:background="@drawable/button_custom"
         android:text="Remove"
-        app:backgroundTint="@null"
+        app:backgroundTint="#9C27B0"
         app:layout_constraintBottom_toBottomOf="@+id/btnAdd"
         app:layout_constraintStart_toEndOf="@+id/btnAdd"
         app:layout_constraintTop_toTopOf="@+id/btnAdd"
@@ -55,7 +55,7 @@
         android:layout_marginLeft="8dp"
         android:background="@drawable/button_custom"
         android:text="Save"
-        app:backgroundTint="@null"
+        app:backgroundTint="#9C27B0"
         app:layout_constraintBottom_toBottomOf="@+id/btnRemove"
         app:layout_constraintEnd_toEndOf="@+id/tvSearch"
         app:layout_constraintStart_toEndOf="@+id/btnRemove"
